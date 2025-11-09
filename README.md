@@ -192,7 +192,7 @@ This adaptation Copyright (c) 2025 primautomation.nl
 - **Marketplace**: [Primadata Marketplace](https://github.com/Primadetaautomation/primadata-marketplace)
 - **Original Project**: [my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup)
 - **Issues**: [Report Issues](https://github.com/Primadetaautomation/primadata-enhanced-toolkit/issues)
-- **Contact**: rick@primaautomation.com
+- **Contact**: rick@primautomation.com
 
 ---
 
