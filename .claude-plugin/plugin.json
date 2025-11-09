@@ -2,70 +2,11 @@
   "name": "primadata-enhanced-toolkit",
   "version": "1.0.0",
   "description": "Complete my-claude-code-setup features: Memory bank, cost tracking, security tools, prompt engineering, doc automation, and specialized agents. Based on centminmod/my-claude-code-setup.",
-  "author": "Primadata Automation",
+  "author": {
+    "name": "Primadata Automation",
+    "email": "rick@primadetaautomation.com"
+  },
   "homepage": "https://github.com/Primadetaautomation/primadata-enhanced-toolkit",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Primadetaautomation/primadata-enhanced-toolkit.git"
-  },
-  "license": "MIT",
-  "based_on": {
-    "repository": "centminmod/my-claude-code-setup",
-    "author": "George Liu",
-    "url": "https://github.com/centminmod/my-claude-code-setup"
-  },
-  "features": {
-    "memory_bank": {
-      "enabled": true,
-      "files": [
-        "CLAUDE-activeContext.md",
-        "CLAUDE-patterns.md",
-        "CLAUDE-decisions.md",
-        "CLAUDE-troubleshooting.md"
-      ]
-    },
-    "agents": [
-      "memory-bank-synchronizer",
-      "code-searcher",
-      "get-current-datetime",
-      "ux-design-expert"
-    ],
-    "commands": {
-      "cost_management": [
-        "/ccusage-daily"
-      ],
-      "security": [
-        "/secure-prompts",
-        "/security-audit",
-        "/check-best-practices"
-      ],
-      "prompt_engineering": [
-        "/apply-thinking-to",
-        "/convert-to-todowrite-tasklist"
-      ],
-      "documentation": [
-        "/create-release-note",
-        "/add-update-readme",
-        "/cleanup-context"
-      ],
-      "architecture": [
-        "/init"
-      ],
-      "refactoring": [
-        "/refactor"
-      ]
-    },
-    "skills": [
-      "claude-docs-consultant"
-    ]
-  },
-  "keywords": [
-    "claude-code",
-    "memory-bank",
-    "cost-tracking",
-    "security",
-    "prompt-engineering",
-    "documentation",
-    "productivity"
-  ]
+  "repository": "https://github.com/Primadetaautomation/primadata-enhanced-toolkit.git",
+  "license": "MIT"
 }
