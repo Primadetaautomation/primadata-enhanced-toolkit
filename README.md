@@ -185,16 +185,16 @@ This plugin is based on the excellent work from:
 MIT License - see [LICENSE](LICENSE) for details.
 
 Original work Copyright (c) 2024 George Liu
-This adaptation Copyright (c) 2024 Primadata Automation
+This adaptation Copyright (c) 2025 primautomation.nl
 
 ## 🔗 Links
 
 - **Marketplace**: [Primadata Marketplace](https://github.com/Primadetaautomation/primadata-marketplace)
 - **Original Project**: [my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup)
 - **Issues**: [Report Issues](https://github.com/Primadetaautomation/primadata-enhanced-toolkit/issues)
-- **Contact**: rick@primadetaautomation.com
+- **Contact**: rick@primaautomation.com
 
 ---
 
-**Made with ❤️ by [Primadata Automation](https://github.com/Primadetaautomation)**
+**Made with ❤️ by [primautomation.nl](https://github.com/Primadetaautomation)**
 **Based on [my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) by [centminmod](https://github.com/centminmod)**
